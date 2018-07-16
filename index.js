@@ -2,6 +2,6 @@ import { AppRegistry } from 'react-native';
 import App from './App';
 import HelloWorldApp from './HelloWorldApp'
 import AsyncStorageTest from './AsyncStorageTest'
-import upload from './upload'
+import DrawerExample from './DrawerExample'
 
-AppRegistry.registerComponent('AwesomeProject', () => upload);
+AppRegistry.registerComponent('AwesomeProject', () => DrawerExample);
